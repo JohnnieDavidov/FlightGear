@@ -88,5 +88,5 @@ or function in loop.
 - fly_with_func.txt
 
 ## Links
-- Our GitHub project https://github.com/BergerZvika/flightgear.git
+- Our GitHub project https://github.com/JohnnieDavidov/FlightGear
 - Download FlightGear Simulator https://www.flightgear.org/download/
